@@ -5,11 +5,12 @@
   Portfolio Website Version 2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://chandrikadeb7.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The second iteration of <a href="https://attajunyah.github.io/personal_portfolio/" target="_blank">https://attajunyah.github.io/personal_portfolio/</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
+  <a href="  <a href="https://attajunyah.github.io/personal_portfolio/" target="_blank">Version 1</a>
+" target="_blank">Version 1</a>
 </p>
 
 <div align="center">
