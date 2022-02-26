@@ -1,6 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
-</div>
 <h1 align="center">
   Portfolio Website 
 </h1>
