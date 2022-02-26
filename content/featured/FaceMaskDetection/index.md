@@ -1,17 +1,17 @@
 ---
 date: '3'
-title: 'Face Mask Detection'
+title: 'Course Selection System'
 cover: 'face-mask.png'
-github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
-external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
+github: 'https://github.com/attajunyah/college_course_selection_management_system'
+
 tech:
-  - OpenCV
-  - TensorFlow
-  - Keras
-  - Python
+  - PHP
+  - JavaScript
+  - CSS
+  - HTML
 showInProjects: true
 ---
 
-Face Mask Detection system to detect face masks in static images as well as in real-time video streams. Own custom dataset was built using Bing Search API and Kaggle.
+College Course Selection Management System accessed by Students and Instructors to add or drop online classes. 
 
-Inspired by Adrian Rosebrock's [PyImageSearch Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/).
+
