@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: 'https://drive.google.com/file/d/13ARTOhVMXS4zru_RBIUvtPhY7i1YXpWq/view?usp=sharing'
+avatar: 'personal_portfolio/me.jpg'
 skills:
   - Java Enterprise
   - Python
