@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Salon Booking System'
-cover: 'bot.png'
+cover: 'personal_portfolio/bot.png'
 github: 'https://github.com/attajunyah/Salon_Booking_System'
 
 tech:

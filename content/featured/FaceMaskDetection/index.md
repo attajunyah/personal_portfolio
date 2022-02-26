@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Course Selection System'
-cover: 'face-mask.png'
+cover: 'personal_portfolio/face-mask.png'
 github: 'https://github.com/attajunyah/college_course_selection_management_system'
 
 tech:
